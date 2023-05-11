@@ -1,0 +1,159 @@
+{
+    "model": "test",
+    "srcType": "contentstack",
+    "srcProjectId": "blt00efd2336c776daf",
+    "presets": [
+        {
+            "label": "TESTING",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Pages"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "single_line": [
+                    "Text Item 1"
+                ],
+                "multi_line": "Multi line content\nLike this one",
+                "rich_text_editor": "\n\n",
+                "json_rte": {
+                    "type": "doc",
+                    "attrs": {},
+                    "uid": "ad43734c837740fca6497048b9dfe136",
+                    "children": [
+                        {
+                            "type": "p",
+                            "attrs": {},
+                            "uid": "eba86ba387294d46995233bef748e228",
+                            "children": [
+                                {
+                                    "text": "Rich text"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "p",
+                            "attrs": {},
+                            "uid": "498f5a81a98247edb2b40cc3b2d1c8e5",
+                            "children": [
+                                {
+                                    "text": "gfsgds "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "p",
+                            "attrs": {},
+                            "uid": "02df4b2b86d94a688ad25ce3077d1ab4",
+                            "children": [
+                                {
+                                    "text": "gdsgds "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "p",
+                            "attrs": {},
+                            "uid": "b37a421c6cd24d1aaa88c923d227e0e4",
+                            "children": [
+                                {
+                                    "text": "gds"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "p",
+                            "attrs": {},
+                            "uid": "9d2245269b3e4af3a0b4792bad61e95a",
+                            "children": [
+                                {
+                                    "text": " gdsgdsgsd gdsg s"
+                                },
+                                {
+                                    "text": " gsdgsd gds gsdg s",
+                                    "bold": true
+                                },
+                                {
+                                    "text": "g gsd g "
+                                },
+                                {
+                                    "text": "gdsgsdg ",
+                                    "italic": true
+                                },
+                                {
+                                    "text": "gdsg "
+                                },
+                                {
+                                    "text": "gdsgdsgds",
+                                    "underline": true
+                                }
+                            ]
+                        }
+                    ],
+                    "_version": 262
+                },
+                "markdown": "# Markdown\n\n",
+                "select": "Value 1",
+                "modular_blocks": [
+                    {
+                        "image": {
+                            "$$ref": "blt63a0476c88faf0bd",
+                            "$$type": "__image_model"
+                        },
+                        "alt_text": "",
+                        "element_id": "TESTING_ID2",
+                        "styles": "",
+                        "$$type": "BLOCK_test__block_3"
+                    },
+                    {
+                        "image": {
+                            "$$ref": "blt95621de9234119b9",
+                            "$$type": "__image_model"
+                        },
+                        "alt_text": "",
+                        "element_id": "",
+                        "styles": "",
+                        "$$type": "BLOCK_test__block_3"
+                    }
+                ],
+                "number": [
+                    67
+                ],
+                "boolean": true,
+                "date": "2023-04-06",
+                "file": {
+                    "$$ref": "bltcd2944cc70b76fd7",
+                    "$$type": "__image_model"
+                },
+                "reference": {
+                    "$$ref": "blt8648fd9adbd89f67",
+                    "$$type": "site_configuration"
+                },
+                "group": [
+                    {
+                        "group_field_1": "bla bla bla XX",
+                        "group_field_2": ""
+                    }
+                ],
+                "global_field": [
+                    {
+                        "text": "DARK",
+                        "color": "text-dark",
+                        "styles": "",
+                        "$$type": "title_block"
+                    },
+                    {
+                        "text": "LIGHT",
+                        "color": "text-light",
+                        "styles": "",
+                        "$$type": "title_block"
+                    }
+                ],
+                "select_2": "c"
+            },
+            "thumbnail": "images/test-testing-a0d7.png"
+        }
+    ]
+}

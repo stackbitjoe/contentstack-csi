@@ -1,0 +1,32 @@
+{
+    "model": "page",
+    "srcType": "contentstack",
+    "srcProjectId": "PROJECT_ID",
+    "presets": [
+        {
+            "label": "Ryland's Page",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Pages"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Ryland Demo",
+                "slug": "/demo-ryland",
+                "sections": [
+                    {
+                        "$$ref": "blteac27ded9720269e",
+                        "$$type": "generic_section"
+                    },
+                    {
+                        "$$ref": "blt9ff5b7d4b5801c03",
+                        "$$type": "featured_people_section"
+                    }
+                ]
+            },
+            "thumbnail": "images/page-ryland's-page-6c14.png"
+        }
+    ]
+}

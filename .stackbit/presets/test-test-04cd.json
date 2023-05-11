@@ -1,0 +1,179 @@
+{
+    "model": "test",
+    "srcType": "contentstack",
+    "srcProjectId": "PROJECT_ID",
+    "presets": [
+        {
+            "label": "TEST",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Pages"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Title!!!",
+                "single_line": [],
+                "multi_line": "Multi\n\nLINE\n\nCONTE\nNT",
+                "rich_text_editor": "<p><sup><strong>ujgrfjgff</strong></sup></p><p><sub>blagsgs </sub>gdsgsd ba</p><img asset_uid=\"bltcd2944cc70b76fd7\" src=\"https://images.contentstack.io/v3/assets/blt00efd2336c776daf/bltcd2944cc70b76fd7/63d19ffcbbcc27228d8df2b9/logo-mark-dark.svg\" height=\"auto\"/>",
+                "json_rte": {
+                    "type": "doc",
+                    "attrs": {},
+                    "uid": "ad43734c837740fca6497048b9dfe136",
+                    "children": [
+                        {
+                            "type": "p",
+                            "attrs": {},
+                            "uid": "eba86ba387294d46995233bef748e228",
+                            "children": [
+                                {
+                                    "text": "Rich text"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "p",
+                            "attrs": {},
+                            "uid": "498f5a81a98247edb2b40cc3b2d1c8e5",
+                            "children": [
+                                {
+                                    "text": "gfsgds "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "p",
+                            "attrs": {},
+                            "uid": "02df4b2b86d94a688ad25ce3077d1ab4",
+                            "children": [
+                                {
+                                    "text": "gdsgds "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "p",
+                            "attrs": {},
+                            "uid": "b37a421c6cd24d1aaa88c923d227e0e4",
+                            "children": [
+                                {
+                                    "text": "gds"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "p",
+                            "attrs": {},
+                            "uid": "9d2245269b3e4af3a0b4792bad61e95a",
+                            "children": [
+                                {
+                                    "text": " gdsgdsgsd gdsg s"
+                                },
+                                {
+                                    "text": " gsdgsd gds gsdg s",
+                                    "bold": true
+                                },
+                                {
+                                    "text": "g gsd g "
+                                },
+                                {
+                                    "text": "gdsgsdg ",
+                                    "italic": true
+                                },
+                                {
+                                    "text": "gdsg "
+                                },
+                                {
+                                    "text": "gdsgdsgds",
+                                    "underline": true
+                                }
+                            ]
+                        }
+                    ],
+                    "_version": 195
+                },
+                "markdown": "# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n**Bold** *Italic*\n\n> Quote stuff...\n\nAnd of course, some code:\n        function test() {\n           console.log('bla bla bla');\n       }\n     ",
+                "select": "Value 1",
+                "modular_blocks": [
+                    {
+                        "single_line": "789",
+                        "multi_line": "BLA",
+                        "modular_blocks2": [
+                            {
+                                "image": {
+                                    "$$ref": "blt16bd4c66a945e136",
+                                    "$$type": "__image_model"
+                                },
+                                "alt_text": "BLA2323",
+                                "background_size": "auto",
+                                "background_position": "center",
+                                "background_repeat": "repeat",
+                                "opacity": 100,
+                                "$$type": "BLOCK_BLOCK_test__test_block__test"
+                            },
+                            {
+                                "image": {
+                                    "$$ref": "blt0867230247549712",
+                                    "$$type": "__image_model"
+                                },
+                                "alt_text": "",
+                                "background_size": "auto",
+                                "background_position": "center",
+                                "background_repeat": "repeat",
+                                "opacity": 100,
+                                "$$type": "BLOCK_BLOCK_test__test_block__test"
+                            }
+                        ],
+                        "$$type": "BLOCK_test__test_block"
+                    },
+                    {
+                        "image": {
+                            "$$ref": "blt63a0476c88faf0bd",
+                            "$$type": "__image_model"
+                        },
+                        "alt_text": "",
+                        "element_id": "TESTING_ID2",
+                        "styles": "",
+                        "$$type": "BLOCK_test__block_3"
+                    }
+                ],
+                "number": [
+                    67,
+                    123,
+                    54
+                ],
+                "boolean": true,
+                "date": "2023-04-06",
+                "file": {
+                    "$$ref": "bltcd2944cc70b76fd7",
+                    "$$type": "__image_model"
+                },
+                "link": [
+                    {},
+                    {}
+                ],
+                "reference": {
+                    "$$ref": "blta36c9ae74459de0f",
+                    "$$type": "theme_style"
+                },
+                "group": [
+                    {
+                        "group_field_1": "bla bla bla XX",
+                        "group_field_2": ""
+                    }
+                ],
+                "global_field": [
+                    {
+                        "text": "TEST TEST BLOCK2",
+                        "color": "text-light",
+                        "styles": "",
+                        "$$type": "title_block"
+                    }
+                ],
+                "select_2": "b"
+            },
+            "thumbnail": "images/test-test-04cd.png"
+        }
+    ]
+}

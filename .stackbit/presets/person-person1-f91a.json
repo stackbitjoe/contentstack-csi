@@ -1,0 +1,36 @@
+{
+    "model": "person",
+    "srcType": "contentstack",
+    "srcProjectId": "blt00efd2336c776daf",
+    "presets": [
+        {
+            "label": "Person1",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Pages"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Drake Garza",
+                "role": "Project Manager",
+                "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n",
+                "image": {
+                    "image": {
+                        "$$ref": "blt95621de9234119b9",
+                        "$$type": "__image_model"
+                    },
+                    "alt_text": null,
+                    "element_id": null,
+                    "styles": "{\"self\":{\"borderRadius\":\"full\",\"margin\":[\"mb-6\"]}}",
+                    "$$type": "image_block"
+                },
+                "colors": "bg-light-fg-dark",
+                "element_id": null,
+                "styles": "{\"self\":{\"textAlign\":\"center\",\"padding\":[\"pt-6\",\"pl-6\",\"pb-6\",\"pr-6\"],\"justifyContent\":\"center\",\"borderRadius\":\"x-large\",\"borderWidth\":1,\"borderColor\":\"border-neutral\",\"borderStyle\":\"solid\"}}"
+            },
+            "thumbnail": "images/person-person1-f91a.png"
+        }
+    ]
+}

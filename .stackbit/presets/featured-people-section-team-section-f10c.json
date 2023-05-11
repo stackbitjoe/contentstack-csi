@@ -1,0 +1,57 @@
+{
+    "model": "featured_people_section",
+    "srcType": "contentstack",
+    "srcProjectId": "PROJECT_ID",
+    "presets": [
+        {
+            "label": "Team Section",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Sections"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "titleBlock": {
+                    "text": "Meet the Team",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center",
+                            "fontWeight": 700
+                        }
+                    },
+                    "$$type": "TitleBlock"
+                },
+                "subtitle": "Best colleagues ever",
+                "people": [
+                    {
+                        "$$ref": "blt1b188d52f1c80f62",
+                        "$$type": "person"
+                    },
+                    {
+                        "$$ref": "blte9d38b6f0a568aa3",
+                        "$$type": "person"
+                    }
+                ],
+                "colors": "bg-neutral-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-16",
+                            "pl-16",
+                            "pb-16",
+                            "pr-16"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-people-section-team-section-f10c.png"
+        }
+    ]
+}

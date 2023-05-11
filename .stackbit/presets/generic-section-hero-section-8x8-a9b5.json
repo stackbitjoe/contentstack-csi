@@ -1,0 +1,69 @@
+{
+    "model": "generic_section",
+    "srcType": "contentstack",
+    "srcProjectId": "PROJECT_ID",
+    "presets": [
+        {
+            "label": "Hero Section 8x8",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Sections"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "titleBlock": {
+                    "text": "Your Business Headline Here, 8x8!",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center",
+                            "fontWeight": 700
+                        }
+                    },
+                    "$$type": "TitleBlock"
+                },
+                "subtitle": "Be in good company",
+                "text": "A service that provides advice and guidance to startups and small businesses.",
+                "media": {
+                    "image": {
+                        "$$ref": "blt16bd4c66a945e136",
+                        "$$type": "__image_model"
+                    },
+                    "altText": "",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "borderRadius": "none"
+                        }
+                    },
+                    "$$type": "ImageBlock"
+                },
+                "elementId": "",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": {
+                    "altText": "",
+                    "backgroundSize": "auto",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": "repeat",
+                    "opacity": 100,
+                    "$$type": "BackgroundImage"
+                },
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row-reverse"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    },
+                    "text": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-hero-section-8x8-a9b5.png"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "model": "page",
+    "srcType": "contentstack",
+    "srcProjectId": "blt00efd2336c776daf",
+    "presets": [
+        {
+            "label": "TEST222",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Pages"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "March 15 2023",
+                "slug": "/march-15-2023",
+                "sections": [
+                    {
+                        "$$ref": "blt4776c77f69c3ffbd",
+                        "$$type": "featured_people_section"
+                    },
+                    {
+                        "$$ref": "blteac27ded9720269e",
+                        "$$type": "generic_section"
+                    },
+                    {
+                        "$$ref": "blt9ff5b7d4b5801c03",
+                        "$$type": "featured_people_section"
+                    }
+                ]
+            },
+            "thumbnail": "images/page-test222-34bd.png"
+        }
+    ]
+}

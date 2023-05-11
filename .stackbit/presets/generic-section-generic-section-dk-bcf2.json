@@ -1,0 +1,69 @@
+{
+    "model": "generic_section",
+    "srcType": "contentstack",
+    "srcProjectId": "PROJECT_ID",
+    "presets": [
+        {
+            "label": "Generic Section DK",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Sections"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "titleBlock": {
+                    "text": "Business Consulting for the Draftkings Team!",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center",
+                            "fontWeight": 700
+                        }
+                    },
+                    "$$type": "TitleBlock"
+                },
+                "subtitle": "Be in good company",
+                "text": "A service that provides advice and guidance to startups and small businesses, sometimes enterprises as well.",
+                "media": {
+                    "image": {
+                        "$$ref": "blt16bd4c66a945e136",
+                        "$$type": "__image_model"
+                    },
+                    "altText": "",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "borderRadius": "none"
+                        }
+                    },
+                    "$$type": "ImageBlock"
+                },
+                "elementId": "",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": {
+                    "altText": "",
+                    "backgroundSize": "auto",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": "repeat",
+                    "opacity": 100,
+                    "$$type": "BackgroundImage"
+                },
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    },
+                    "text": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-generic-section-dk-bcf2.png"
+        }
+    ]
+}
